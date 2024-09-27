@@ -1,5 +1,5 @@
 body {
-    background-image:url("/image/cinema.jpg");
+    background-image:url("../image/cinema.jpg");
     background-position: top center;
     background-size: cover;
     font-family: "Helvetica", sans-serif;
